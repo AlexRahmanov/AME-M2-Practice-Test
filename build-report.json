@@ -1,0 +1,101 @@
+{
+  "AF": {
+    "count": 281,
+    "topics": {
+      "Structures": 19,
+      "General Airframe": 43,
+      "Flight Controls & Rigging": 25,
+      "Aerodynamics": 40,
+      "Landing Gear & Brakes": 43,
+      "Hydraulic & Pneumatic": 20,
+      "Rotorcraft": 40,
+      "Electrical & Instruments": 15,
+      "Cabin & Pressurization": 22,
+      "Fuel Systems": 1,
+      "Ice & Rain Protection": 6,
+      "Materials & Fabric": 7
+    }
+  },
+  "PP": {
+    "count": 1649,
+    "topics": {
+      "Reciprocating Engines": 290,
+      "Induction & Exhaust": 58,
+      "Propellers": 205,
+      "General Powerplant": 274,
+      "Turbine Engines": 504,
+      "Ignition & Starting": 70,
+      "Fuel & Metering": 76,
+      "Lubrication": 140,
+      "Engine Maintenance": 4,
+      "Engine Controls & Instruments": 28
+    }
+  },
+  "SP": {
+    "count": 799,
+    "topics": {
+      "Physics & Mathematics": 146,
+      "Ground Servicing & Safety": 10,
+      "Electrical Fundamentals": 173,
+      "Materials & Metallurgy": 141,
+      "Hardware & Fasteners": 123,
+      "Drawings & Symbols": 21,
+      "Tools & Measurement": 27,
+      "Standard Practices": 103,
+      "Welding & Brazing": 8,
+      "Tubing, Hoses & Lines": 17,
+      "Weight & Balance": 5,
+      "Cable & Control Systems": 12,
+      "NDT": 10,
+      "Corrosion": 3
+    }
+  },
+  "CARS": {
+    "count": 835,
+    "topics": {
+      "General CARs": 160,
+      "Airworthiness & Flight Authority": 77,
+      "AME Licensing": 284,
+      "Commercial Operations": 9,
+      "CARs Structure & Definitions": 42,
+      "Maintenance Release & Records": 149,
+      "Maintenance Schedules": 38,
+      "ADs & Mandatory Instructions": 14,
+      "AMO & Maintenance Organizations": 43,
+      "Registration & Marks": 19
+    }
+  },
+  "M": {
+    "count": 200,
+    "topics": {
+      "Rotorcraft": 40,
+      "Airworthiness & Flight Authority": 2,
+      "Reciprocating Engines": 5,
+      "Engine Controls & Instruments": 15,
+      "Materials & Fabric": 1,
+      "Maintenance Schedules": 7,
+      "AME Licensing": 24,
+      "CARs Structure & Definitions": 3,
+      "Ignition & Starting": 3,
+      "Aerodynamics": 11,
+      "NDT": 2,
+      "Landing Gear & Brakes": 10,
+      "Electrical & Instruments": 3,
+      "Turbine Engines": 22,
+      "Cabin & Pressurization": 5,
+      "Propellers": 2,
+      "AMO & Maintenance Organizations": 6,
+      "Structures": 5,
+      "Hydraulic & Pneumatic": 10,
+      "Flight Controls & Rigging": 1,
+      "Lubrication": 6,
+      "Ice & Rain Protection": 4,
+      "Registration & Marks": 1,
+      "Engine Maintenance": 4,
+      "Fuel & Metering": 3,
+      "Drawings & Symbols": 2,
+      "Maintenance Release & Records": 2,
+      "Ground Servicing & Safety": 1
+    }
+  }
+}
