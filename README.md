@@ -33,3 +33,5 @@ Upload the contents of this folder to the repository root and enable GitHub Page
 
 ## Important
 This is an independent study aid and not an official Transport Canada examination or question bank. Some CARs material is source-derived from older study sets; regulation-sensitive items should be checked against current Canadian Aviation Regulations before being relied on for legal or maintenance decisions.
+
+https://alexrahmanov.github.io/AME-M2-Practice-Test/
