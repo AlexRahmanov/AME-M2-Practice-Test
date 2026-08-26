@@ -1,37 +1,22 @@
-# AME-M Exam Practice — Multi-Test Build
+# AME-M Transport Canada-Style Practice — 2026.08 Release
 
-A GitHub Pages-ready static practice site that keeps the visual style and core quiz flow of the previous site while using a new question database and a multi-select test builder.
+Upload **all files in this folder** to the root of your GitHub Pages repository.
 
-## Test banks
-- Airframe (AF)
-- Powerplant (PP)
-- Standard Practice (SP)
-- CARs
-- AME-M Practice
+## Question banks
+- Airframe (AF): **225**
+- Powerplant (PP): **235**
+- Standard Practice (SP): **274**
+- CARs: **200**
+- AME-M Practice: **300** balanced AF/PP/SP questions
 
-Select any one or more banks. Fixed-size mixed tests are balanced across the selected banks. `All available` loads every question in the selected banks.
+## Test builder
+Choose one or more banks in any combination, then select **25 / 50 / 100 / 200 / All Available**. Mixed tests distribute questions across selected banks as evenly as the available counts allow. Cross-bank duplicate stems are removed when a quiz is built, so selecting AME-M Practice together with AF/PP/SP will not repeat the same question in one test.
 
-## Features
-- 25 / 50 / 100 / 200 / All available
-- Multi-select test banks
-- Balanced mixed-test selection
-- Practice mode with instant feedback
-- Exam mode with results only at the end
-- Shuffle questions and answers
-- Optional timer
-- Previous / Next navigation
-- Main Menu / Restart
-- Overall and per-bank results
-- Topic breakdown
-- Review incorrect answers
-- Mobile responsive
-- Figure/image support
-- Settings saved locally in the browser
+The existing site design/functionality is retained: Practice and Exam modes, question shuffle, answer shuffle, optional timer, progress, score/accuracy, subject breakdown, topic breakdown, incorrect-answer review, restart, and Main Menu.
 
-## Deploy to GitHub Pages
-Upload the contents of this folder to the repository root and enable GitHub Pages from the `main` branch and root folder.
+## Question-style revision
+This release is a quality-first rebuild intended to resemble the **publicly documented Transport Canada multiple-choice style** rather than the previous long-answer source formatting. Every final item has exactly four choices, one keyed answer, concise options (maximum 12 words), and no “All of the above” / “None of the above.” Distractors are kept in the same topic/subsystem wherever practical.
 
-## Important
-This is an independent study aid and not an official Transport Canada examination or question bank. Some CARs material is source-derived from older study sets; regulation-sensitive items should be checked against current Canadian Aviation Regulations before being relied on for legal or maintenance decisions.
+Transport Canada SI 566-001 states that AME multiple-choice items use a stem plus four options (one key and three distractors), that options should not reveal the answer through wording/grammar, and that practical application questions are preferred. TP 14038 confirms technical exams are approximately 90 questions and regulatory exams for M/E/S are approximately 50 questions.
 
-https://alexrahmanov.github.io/AME-M2-Practice-Test/
+**Important:** This is an independent study aid. It is not an official Transport Canada exam, and it does not contain or claim access to Transport Canada’s live examination bank.
